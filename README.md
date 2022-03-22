@@ -5,7 +5,7 @@
 <br>
 🕶 Cursos a parte ( Udemy - Logica da programação e algoritmos, JavaScript, HTML, CSS)
 <br>
-🚀 Atualmente focado no Discover (RocketSeat)
+🚀 Atualmente focado no Explorer/Ignite (RocketSeat)
 
 
 
