@@ -1,11 +1,11 @@
 "My skills:"
 𝐇𝐓𝐌𝐋 | 𝐂𝐒𝐒 | 𝐉𝐚𝐯𝐚𝐒𝐜𝐫𝐢𝐩𝐭 | 𝐁𝐨𝐨𝐭𝐬𝐭𝐫𝐚𝐩 | 𝐆𝐢𝐭 & 𝐆𝐢𝐭𝐇𝐮𝐛 | 𝐆𝐬𝐚𝐩 | 𝐒𝐂𝐑𝐔𝐌 | 𝙈𝙮𝙎𝙌𝙇
 <br>
-🚀<h3>RocketSeat</h3>-- Explorer - 3/28/22 to mid-September, after that Ignite/React
+<h3>🚀RocketSeat</h3>-- Explorer - 3/28/22 to mid-September, after that Ignite/React
   <br>
-⚡<h3>University</h3> --Anhanguera - Faculty of Software Engineering until 2026
+<h3>⚡University</h3> --Anhanguera - Faculty of Software Engineering until 2026
   <br>
-📚<h3>English</h3>-- Private Lessons - Basic I, II, III and Intermediate until 2023
+<h3>📚English</h3>-- Private Lessons - Basic I, II, III and Intermediate until 2023
   <br>
   <br>
   <b>My name is Bruno Geovanny, 23 years old, I was born and raised in São Paulo, but I currently live in Rio de Janeiro.</b>
