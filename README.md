@@ -1,7 +1,7 @@
 "My skills:"
 𝐇𝐓𝐌𝐋 | 𝐂𝐒𝐒 | 𝐉𝐚𝐯𝐚𝐒𝐜𝐫𝐢𝐩𝐭 | 𝐁𝐨𝐨𝐭𝐬𝐭𝐫𝐚𝐩 | 𝐆𝐢𝐭 & 𝐆𝐢𝐭𝐇𝐮𝐛 | 𝐆𝐬𝐚𝐩 | 𝐒𝐂𝐑𝐔𝐌 | 𝙈𝙮𝙎𝙌𝙇
 <br>
-<p>"Studies"
+<h4>"Studies"</h4>
 <br>
 🚀<h3>RocketSeat</h3>-- Explorer - 3/28/22 to mid-September, after that Ignite/React
   <br>
@@ -11,7 +11,7 @@
   <br>
   <b>My name is Bruno Geovanny, 23 years old, I was born and raised in São Paulo, but I currently live in Rio de Janeiro.</b>
   <br>
-  I've been working in the Development area for just over a month, supporting animation, creation and adaptation of banners, focusing on digital and mobile advertising   sites, with web-ready assets from psd files.
+  <p>I've been working in the Development area for just over a month, supporting animation, creation and adaptation of banners, focusing on digital and mobile      advertising   sites, with web-ready assets from psd files.
     <br>
   I dived into the programming world recently at the end of 2021 (3 Months), and since then I have made very good progress, with good adaptation.
   Finally, if you are looking for someone dedicated, hardworking, who runs after their goals, for their thirst for knowledge, and who always consults the internet to     solve doubts independently before consulting the partner who is full of tasks hahahaha, I am at your disposal.</p>
