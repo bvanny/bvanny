@@ -3,13 +3,14 @@
 <br>
 <p>"Studies"
 <br>
-🚀RocketSeat -- Explorer - 3/28/22 to mid-September, after that Ignite/React
+🚀<h3>RocketSeat</h3>-- Explorer - 3/28/22 to mid-September, after that Ignite/React
   <br>
-⚡University --Anhanguera - Faculty of Software Engineering until 2026
+⚡<h3>University</h3> --Anhanguera - Faculty of Software Engineering until 2026
   <br>
-📚English-- Private Lessons - Basic I, II, III and Intermediate until 2023
+📚<h3>English</h3>-- Private Lessons - Basic I, II, III and Intermediate until 2023
   <br>
   <b>My name is Bruno Geovanny, 23 years old, I was born and raised in São Paulo, but I currently live in Rio de Janeiro.</b>
+  <br>
   I've been working in the Development area for just over a month, supporting animation, creation and adaptation of banners, focusing on digital and mobile advertising   sites, with web-ready assets from psd files.
     <br>
   I dived into the programming world recently at the end of 2021 (3 Months), and since then I have made very good progress, with good adaptation.
