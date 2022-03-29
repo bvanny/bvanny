@@ -9,6 +9,7 @@
   <br>
 📚<h3>English</h3>-- Private Lessons - Basic I, II, III and Intermediate until 2023
   <br>
+  <br>
   <b>My name is Bruno Geovanny, 23 years old, I was born and raised in São Paulo, but I currently live in Rio de Janeiro.</b>
   <br>
   <p>I've been working in the Development area for just over a month, supporting animation, creation and adaptation of banners, focusing on digital and mobile      advertising   sites, with web-ready assets from psd files.
