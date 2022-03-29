@@ -2,13 +2,14 @@
 𝐇𝐓𝐌𝐋 | 𝐂𝐒𝐒 | 𝐉𝐚𝐯𝐚𝐒𝐜𝐫𝐢𝐩𝐭 | 𝐁𝐨𝐨𝐭𝐬𝐭𝐫𝐚𝐩 | 𝐆𝐢𝐭 & 𝐆𝐢𝐭𝐇𝐮𝐛 | 𝐆𝐬𝐚𝐩 | 𝐒𝐂𝐑𝐔𝐌 | 𝙈𝙮𝙎𝙌𝙇
 <br>
 <p>"Studies"
+<br>
 🚀RocketSeat -- Explorer - 3/28/22 to mid-September, after that Ignite/React
   <br>
 ⚡University --Anhanguera - Faculty of Software Engineering until 2026
   <br>
 📚English-- Private Lessons - Basic I, II, III and Intermediate until 2023
   <br>
-  My name is Bruno Geovanny, 23 years old, I was born and raised in São Paulo, but I currently live in Rio de Janeiro.
+  <b>My name is Bruno Geovanny, 23 years old, I was born and raised in São Paulo, but I currently live in Rio de Janeiro.</b>
   I've been working in the Development area for just over a month, supporting animation, creation and adaptation of banners, focusing on digital and mobile advertising   sites, with web-ready assets from psd files.
     <br>
   I dived into the programming world recently at the end of 2021 (3 Months), and since then I have made very good progress, with good adaptation.
