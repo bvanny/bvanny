@@ -1,8 +1,6 @@
 "My skills:"
 𝐇𝐓𝐌𝐋 | 𝐂𝐒𝐒 | 𝐉𝐚𝐯𝐚𝐒𝐜𝐫𝐢𝐩𝐭 | 𝐁𝐨𝐨𝐭𝐬𝐭𝐫𝐚𝐩 | 𝐆𝐢𝐭 & 𝐆𝐢𝐭𝐇𝐮𝐛 | 𝐆𝐬𝐚𝐩 | 𝐒𝐂𝐑𝐔𝐌 | 𝙈𝙮𝙎𝙌𝙇
 <br>
-<h4>"Studies"</h4>
-<br>
 🚀<h3>RocketSeat</h3>-- Explorer - 3/28/22 to mid-September, after that Ignite/React
   <br>
 ⚡<h3>University</h3> --Anhanguera - Faculty of Software Engineering until 2026
