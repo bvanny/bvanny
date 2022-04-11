@@ -18,7 +18,6 @@ Muito prazer
  <br>
  Seja Front, Back ou Full stack
 <br>
-<br>
 
 <p>Trabalhando e estudando desde Dezembro de 2021, venho fazendo uso das tecnologias HTML, CSS e JavaScript e estudado novas tecnologias como BootStrap, SQL, MySQL, Node.js, TypeScript
  <br>
