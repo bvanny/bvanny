@@ -1,4 +1,4 @@
-<p>Trabalhando e estudando desde Dezembro<br><br> de 2021, venho fazendo uso das tecnologias HTML, CSS e JavaScript e estudado novas tecnologias como BootStrap, SQL, MySQL, Node.js, TypeScript
+<p>Trabalhando e estudando desde Dezembro de 2021, venho fazendo uso das tecnologias HTML, CSS e JavaScript e estudado novas tecnologias como BootStrap, SQL, MySQL, Node.js, TypeScript
  <br>
 e React.js e pretendo seguir adiante com Java, Kotlin, C#, .NET e Next.js.</p>
 
