@@ -1,6 +1,6 @@
 <p>Trabalhando e estudando desde Dezembro de 2021, venho fazendo uso das tecnologias HTML, CSS e JavaScript e estudado novas tecnologias como BootStrap, SQL, MySQL, Node.js, TypeScript
 e React.js e pretendo seguir adiante com Java, Kotlin, C#, .NET e Next.js.</p>
- -----------------------------------------------------------------------------------------------------------------------------------------------
+
  <p>» | Amo Tecnologia e Programação
  » | Comecei na programação estudando ( Logica e Algoritmos) em dezembro de 2021
  » | Comecei meus estudos Web Developer em Janeiro de 2022.
@@ -19,7 +19,6 @@ e React.js e pretendo seguir adiante com Java, Kotlin, C#, .NET e Next.js.</p>
  <p>Estou em constante desenvolvimento, adoro estudar, pesquisar, desenvolver, criar.</p>
  <p>Minha paixão por programação surgiu pelo fato de já amar tecnologia, da vontade de</p>
  <p>criar, ou inovar.</p>
- -----------------------------------------------------------------------------------------------------------------------------------------------
 
  <p>Muito prazer</p>
  <p>Meu nome é Bruno Geovanny, 23 anos, nasci e cresci em São Paulo.</p>
