@@ -1,19 +1,30 @@
-<p>Trabalhando e estudando desde Dezembro de 2021, venho fazendo uso das tecnologias HTML, CSS e JavaScript e estudado novas tecnologias como BootStrap, SQL, MySQL, Node.js, TypeScript
-e React.js e pretendo seguir adiante com Java, Kotlin, C#, .NET e Next.js.</p>
+<p>Trabalhando e estudando desde Dezembro<br><br> de 2021, venho fazendo uso das tecnologias HTML, CSS e JavaScript e estudado novas tecnologias como BootStrap, SQL, MySQL, Node.js, TypeScript
+ <br>
+e React.js e pretendo seguir adiante <br><br>com Java, Kotlin, C#, .NET e Next.js.</p>
 
- » | Amo Tecnologia e Programação
+ » | Amo Tecnologia e Programação<br><br>
  <br>
  » | Comecei na programação estudando ( Logica e Algoritmos) em dezembro de 2021
+ <br>
  » | Comecei meus estudos Web Developer em Janeiro de 2022.
+ <br>
  » | Sempre fui muito Autodidata, gosto de ir atrás de informações, pesquisar, sou curioso
+ <br>
  » | Procuro sempre me manter atualizado sobre tecnologias, linguagens, e documentações.
+ <br>
  » | Quero me especializar em Back-end, porém adoro Front-end.
+ <br>
  » | Quero me especializar em Java, C#, .Net, Kotlin, JavaScript, React.js.
-  »» | Apesar de não ter conhecimentos em todas, logo mais buscarei aprende-las.
+ <br>
+ »» | Apesar de não ter conhecimentos em todas, logo mais buscarei aprende-las.
+ <br>
  » | Minha meta é ir morar nos EUA ou CANADA, e atuar como Software Engineering.
-  »» | Também almejo e vou conseguir a fluência no inglês.
+ <br>
+ »» | Também almejo e vou conseguir a fluência no inglês.
+ <br>
  » | Iniciei em um curso de matemática para treinar minha logica.
-  »» | Acho importante ter esse dominio para futuramente ser um bom Engenheiro de Software
+ <br>
+ »» | Acho importante ter esse dominio para futuramente ser um bom Engenheiro de Software
 
  <p>» Sou uma pessoa em busca de conhecimento constante, em aprender novas tecnologias,</p>
  <p>ter conhecimento amplo em diversos assuntos que envolvam programação.</p>
