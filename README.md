@@ -1,3 +1,25 @@
+Muito prazer
+ <br>
+ Meu nome é Bruno Geovanny, 23 anos, nasci e cresci em São Paulo.
+ <br>
+ Atualmente moro no Rio de Janeiro.
+ <br>
+ Nesse momento estou cursando bacharelado de Engenharia de Software,
+ <br>
+ Junto de alguns cursos como Explorer - RocketSeat.
+ <br>
+ Também faço alguns bootcamps porém somente para me afiar um pouco.
+ <br>
+ Logo começarei um curso particular de inglês, atualmente tenho nível intermediário para ler
+ <br>
+ documentações, mas para conversação bem básico. 
+ <br>
+ Sempre estou em busca de novas oportunidades, que me possam fazer evoluir como Desenvolvedor.
+ <br>
+ Seja Front, Back ou Full stack
+<br>
+<br>
+
 <p>Trabalhando e estudando desde Dezembro de 2021, venho fazendo uso das tecnologias HTML, CSS e JavaScript e estudado novas tecnologias como BootStrap, SQL, MySQL, Node.js, TypeScript
  <br>
 e React.js e pretendo seguir adiante com Java, Kotlin, C#, .NET e Next.js.</p>
@@ -26,27 +48,7 @@ e React.js e pretendo seguir adiante com Java, Kotlin, C#, .NET e Next.js.</p>
  <br>
  »» | Acho importante ter esse dominio para futuramente ser um bom Engenheiro de Software
  <br>
- <br>
- Muito prazer
- <br>
- Meu nome é Bruno Geovanny, 23 anos, nasci e cresci em São Paulo.
- <br>
- Atualmente moro no Rio de Janeiro.
- <br>
- Nesse momento estou cursando bacharelado de Engenharia de Software,
- <br>
- Junto de alguns cursos como Explorer - RocketSeat.
- <br>
- Também faço alguns bootcamps porém somente para me afiar um pouco.
- <br>
- Logo começarei um curso particular de inglês, atualmente tenho nível intermediário para ler
- <br>
- documentações, mas para conversação bem básico. 
- <br>
- Sempre estou em busca de novas oportunidades, que me possam fazer evoluir como Desenvolvedor.
- <br>
- Seja Front, Back ou Full stack
-<br>
+ 
 
 
 <div align="left">
