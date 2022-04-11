@@ -1,18 +1,18 @@
-<p>Trabalhando e estudando desde Dezembro de 2021, venho fazendo uso das tecnologias HTML, CSS e JavaScript e estudado novas tecnologias como BootStrap, SQL, MySQL, Node.js, TypeScript</p>
-<p>e React.js e pretendo seguir adiante com Java, Kotlin, C#, .NET e Next.js.</p>
+<p>Trabalhando e estudando desde Dezembro de 2021, venho fazendo uso das tecnologias HTML, CSS e JavaScript e estudado novas tecnologias como BootStrap, SQL, MySQL, Node.js, TypeScript
+e React.js e pretendo seguir adiante com Java, Kotlin, C#, .NET e Next.js.</p>
  -----------------------------------------------------------------------------------------------------------------------------------------------
- <p>» | Amo Tecnologia e Programação</p>
- <p>» | Comecei na programação estudando ( Logica e Algoritmos) em dezembro de 2021</p>
- <p>» | Comecei meus estudos Web Developer em Janeiro de 2022.</p>
- <p>» | Sempre fui muito Autodidata, gosto de ir atrás de informações, pesquisar, sou curioso</p>
- <p>» | Procuro sempre me manter atualizado sobre tecnologias, linguagens, e documentações.</p>
- <p>» | Quero me especializar em Back-end, porém adoro Front-end.</p>
- <p>» | Quero me especializar em Java, C#, .Net, Kotlin, JavaScript, React.js.</p>
- <p>»» | Apesar de não ter conhecimentos em todas, logo mais buscarei aprende-las.</p>
- <p>» | Minha meta é ir morar nos EUA ou CANADA, e atuar como Software Engineering.</p>
- <p>»» | Também almejo e vou conseguir a fluência no inglês.</p>
- <p>» | Iniciei em um curso de matemática para treinar minha logica.</p>
- <p>»» | Acho importante ter esse dominio para futuramente ser um bom Engenheiro de Software</p>
+ <p>» | Amo Tecnologia e Programação
+ » | Comecei na programação estudando ( Logica e Algoritmos) em dezembro de 2021
+ » | Comecei meus estudos Web Developer em Janeiro de 2022.
+ » | Sempre fui muito Autodidata, gosto de ir atrás de informações, pesquisar, sou curioso
+ » | Procuro sempre me manter atualizado sobre tecnologias, linguagens, e documentações.
+ » | Quero me especializar em Back-end, porém adoro Front-end.
+ » | Quero me especializar em Java, C#, .Net, Kotlin, JavaScript, React.js.
+  »» | Apesar de não ter conhecimentos em todas, logo mais buscarei aprende-las.
+ » | Minha meta é ir morar nos EUA ou CANADA, e atuar como Software Engineering.
+  »» | Também almejo e vou conseguir a fluência no inglês.
+ » | Iniciei em um curso de matemática para treinar minha logica.
+  »» | Acho importante ter esse dominio para futuramente ser um bom Engenheiro de Software</p>
 
  <p>» Sou uma pessoa em busca de conhecimento constante, em aprender novas tecnologias,</p>
  <p>ter conhecimento amplo em diversos assuntos que envolvam programação.</p>
