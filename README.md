@@ -26,23 +26,26 @@ e React.js e pretendo seguir adiante com Java, Kotlin, C#, .NET e Next.js.</p>
  <br>
  »» | Acho importante ter esse dominio para futuramente ser um bom Engenheiro de Software
 
- <p>» Sou uma pessoa em busca de conhecimento constante, em aprender novas tecnologias,</p>
- <p>ter conhecimento amplo em diversos assuntos que envolvam programação.</p>
- <p>Estou em constante desenvolvimento, adoro estudar, pesquisar, desenvolver, criar.</p>
- <p>Minha paixão por programação surgiu pelo fato de já amar tecnologia, da vontade de</p>
- <p>criar, ou inovar.</p>
-
- <p>Muito prazer</p>
- <p>Meu nome é Bruno Geovanny, 23 anos, nasci e cresci em São Paulo.</p>
- <p>Atualmente moro no Rio de Janeiro.</p>
- <p>Nesse momento estou cursando bacharelado de Engenharia de Software,</p>
- <p>Junto de alguns cursos como Explorer - RocketSeat.</p>
- <p>Também faço alguns bootcamps porém somente para me afiar um pouco.</p>
- <p>Logo começarei um curso particular de inglês, atualmente tenho nível intermediário para ler</p> 
- <p>documentações, mas para conversação bem básico. </p>
- <p>Sempre estou em busca de novas oportunidades, que me possam fazer evoluir como Desenvolvedor.</p>
- <p>Seja Front, Back ou Full stack.</p>
-
+ Muito prazer
+ 
+ Meu nome é Bruno Geovanny, 23 anos, nasci e cresci em São Paulo.
+ <br>
+ Atualmente moro no Rio de Janeiro.</p>
+ <br>
+ Nesse momento estou cursando bacharelado de Engenharia de Software,
+ <br>
+ Junto de alguns cursos como Explorer - RocketSeat.
+ <br>
+ Também faço alguns bootcamps porém somente para me afiar um pouco.
+ <br>
+ Logo começarei um curso particular de inglês, atualmente tenho nível intermediário para ler
+ <br>
+ documentações, mas para conversação bem básico. 
+ <br>
+ Sempre estou em busca de novas oportunidades, que me possam fazer evoluir como Desenvolvedor.
+ <br>
+ Seja Front, Back ou Full stack
+<br>
 
 
 <div align="left">
