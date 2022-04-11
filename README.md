@@ -26,11 +26,12 @@ e React.js e pretendo seguir adiante com Java, Kotlin, C#, .NET e Next.js.</p>
  <br>
  »» | Acho importante ter esse dominio para futuramente ser um bom Engenheiro de Software
  <br>
+ <br>
  Muito prazer
  <br>
  Meu nome é Bruno Geovanny, 23 anos, nasci e cresci em São Paulo.
  <br>
- Atualmente moro no Rio de Janeiro.</p>
+ Atualmente moro no Rio de Janeiro.
  <br>
  Nesse momento estou cursando bacharelado de Engenharia de Software,
  <br>
