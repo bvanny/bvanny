@@ -1,22 +1,36 @@
-My skills:
- » 𝐇𝐓𝐌𝐋 | 𝐂𝐒𝐒 | 𝐉𝐚𝐯𝐚𝐒𝐜𝐫𝐢𝐩𝐭 | 𝐆𝐢𝐭 & 𝐆𝐢𝐭𝐇𝐮𝐛 | 𝐆𝐬𝐚𝐩 
- <br>
-Estudando:
- » 𝐁𝐨𝐨𝐭𝐬𝐭𝐫𝐚𝐩 | 𝐒𝐂𝐑𝐔𝐌 | 𝙎𝙌𝙇 | 𝙈𝙮𝙎𝙌𝙇 
-<br>
-<h3>🚀RocketSeat</h3>-- Explorer - 3/28/22 to mid-September, after that Ignite/React
-  <br>
-<h3>⚡University</h3> --Anhanguera - Faculty of Software Engineering until 2026
-  <br>
-<h3>📚English</h3>-- Private Lessons - Basic I, II, III and Intermediate until 2023
-  <br>
-  <br>
-  <b>My name is Bruno Geovanny, 23 years old, I was born and raised in São Paulo, but I currently live in Rio de Janeiro.</b>
-  <br>
-  <p>I've been working in the Development area for just over a month, supporting animation, creation and adaptation of banners, focusing on digital and mobile      advertising   sites, with web-ready assets from psd files.
-    <br>
-  I dived into the programming world recently at the end of 2021 (3 Months), and since then I have made very good progress, with good adaptation.
-  Finally, if you are looking for someone dedicated, hardworking, who runs after their goals, for their thirst for knowledge, and who always consults the internet to     solve doubts independently before consulting the partner who is full of tasks hahahaha, I am at your disposal.</p>
+<p>Trabalhando e estudando desde Dezembro de 2021, venho fazendo uso das tecnologias HTML, CSS e JavaScript e estudado novas tecnologias como BootStrap, SQL, MySQL, Node.js, TypeScript</p>
+<p>e React.js e pretendo seguir adiante com Java, Kotlin, C#, .NET e Next.js.</p>
+ -----------------------------------------------------------------------------------------------------------------------------------------------
+ <p>» | Amo Tecnologia e Programação</p>
+ <p>» | Comecei na programação estudando ( Logica e Algoritmos) em dezembro de 2021</p>
+ <p>» | Comecei meus estudos Web Developer em Janeiro de 2022.</p>
+ <p>» | Sempre fui muito Autodidata, gosto de ir atrás de informações, pesquisar, sou curioso</p>
+ <p>» | Procuro sempre me manter atualizado sobre tecnologias, linguagens, e documentações.</p>
+ <p>» | Quero me especializar em Back-end, porém adoro Front-end.</p>
+ <p>» | Quero me especializar em Java, C#, .Net, Kotlin, JavaScript, React.js.</p>
+ <p>»» | Apesar de não ter conhecimentos em todas, logo mais buscarei aprende-las.</p>
+ <p>» | Minha meta é ir morar nos EUA ou CANADA, e atuar como Software Engineering.</p>
+ <p>»» | Também almejo e vou conseguir a fluência no inglês.</p>
+ <p>» | Iniciei em um curso de matemática para treinar minha logica.</p>
+ <p>»» | Acho importante ter esse dominio para futuramente ser um bom Engenheiro de Software</p>
+
+ <p>» Sou uma pessoa em busca de conhecimento constante, em aprender novas tecnologias,</p>
+ <p>ter conhecimento amplo em diversos assuntos que envolvam programação.</p>
+ <p>Estou em constante desenvolvimento, adoro estudar, pesquisar, desenvolver, criar.</p>
+ <p>Minha paixão por programação surgiu pelo fato de já amar tecnologia, da vontade de</p>
+ <p>criar, ou inovar.</p>
+ -----------------------------------------------------------------------------------------------------------------------------------------------
+
+ <p>Muito prazer</p>
+ <p>Meu nome é Bruno Geovanny, 23 anos, nasci e cresci em São Paulo.</p>
+ <p>Atualmente moro no Rio de Janeiro.</p>
+ <p>Nesse momento estou cursando bacharelado de Engenharia de Software,</p>
+ <p>Junto de alguns cursos como Explorer - RocketSeat.</p>
+ <p>Também faço alguns bootcamps porém somente para me afiar um pouco.</p>
+ <p>Logo começarei um curso particular de inglês, atualmente tenho nível intermediário para ler</p> 
+ <p>documentações, mas para conversação bem básico. </p>
+ <p>Sempre estou em busca de novas oportunidades, que me possam fazer evoluir como Desenvolvedor.</p>
+ <p>Seja Front, Back ou Full stack.</p>
 
 
 
