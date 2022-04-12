@@ -21,7 +21,7 @@ Muito prazer
 
 <p>Trabalhando e estudando desde Dezembro de 2021, venho fazendo uso das tecnologias HTML, CSS e JavaScript e estudado novas tecnologias como BootStrap, SQL, MySQL, Node.js, TypeScript
  <br>
-Next.js. e React.js e pretendo seguir adiante com Java, Kotlin, C#, .NET</p>
+Next.js. e React.js e pretendo seguir no futuro com Java, Kotlin, C#, .NET pos amo Back-End</p>
 
  » | Amo Tecnologia e Programação
  <br>
