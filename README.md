@@ -21,7 +21,7 @@ Muito prazer
 
 <p>Trabalhando e estudando desde Dezembro de 2021, venho fazendo uso das tecnologias HTML, CSS e JavaScript e estudado novas tecnologias como BootStrap, SQL, MySQL, Node.js, TypeScript
  <br>
-Next.js. e React.js e pretendo seguir no futuro com Java, Kotlin, C#, .NET pos amo Back-End</p>
+Next.js. e React.js</p>
 
  » | Amo Tecnologia e Programação
  <br>
@@ -33,11 +33,11 @@ Next.js. e React.js e pretendo seguir no futuro com Java, Kotlin, C#, .NET pos a
  <br>
  » | Procuro sempre me manter atualizado sobre tecnologias, linguagens, e documentações.
  <br>
- » | Quero me especializar em Back-end, porém adoro Front-end.
+ » | Quero me especializar em Full-stack, pois adoro todos os lados da programação.
  <br>
- » | Quero me especializar em Java, C#, .Net, Kotlin, JavaScript, React.js.
+ » | No momento estou focado na stack JavaScript.
  <br>
- »» | Apesar de não ter conhecimentos em todas, logo mais buscarei aprende-las.
+ »» | Apesar de não ter conhecimentos nas tecnologias do momento, logo mais buscarei aprende-las.
  <br>
  » | Minha meta é ir morar nos EUA ou CANADA, e atuar como Software Engineering.
  <br>
