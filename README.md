@@ -4,9 +4,9 @@
 
 <div align="center">  
 
-<img align="bottom"  width="50%"  src="https://github-readme-stats.vercel.app/api?username=bvanny&show_icons=true&theme=radical" />
+<img  width="46%"    src="https://github-readme-stats.vercel.app/api?username=bvanny&show_icons=true&theme=radical" />
 
-<img align="bottom" width="45%"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=bvanny&layout=compact&theme=radical"/>
+<img  width="45.3%"   src="https://github-readme-stats.vercel.app/api/top-langs/?username=bvanny&layout=compact&theme=radical"/>
 
 </div>
 
@@ -15,7 +15,7 @@
 
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=bvanny&theme=dark_lover&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
+  <img src="https://github-profile-trophy.vercel.app/?username=bvanny&theme=onedark"/>
 </p>
 
 <div align="center">  
