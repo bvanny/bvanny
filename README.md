@@ -10,7 +10,7 @@
 [![Bvanny github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=bvanny&theme=merko)](https://github.com/bvanny/github-readme-activity-graph)
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=bvanny&theme=dracula&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
+  <img src="https://github-profile-trophy.vercel.app/?username=bvanny&theme=dark_lover&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
 </p>
 
 <div align="center">  
