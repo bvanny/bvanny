@@ -2,6 +2,8 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FFC300&size=35&center=true&vCenter=true&width=1000&lines=Hello,+My+Name+is+Bruno+Geovanny;I'm+24+years+old;I+come+from+Brasil,+SP;I'm+Software+Engineering+Student+at+Anhanguera;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
+<br>
+
 <div align="center">  
 
 <img  width="46%"    src="https://github-readme-stats.vercel.app/api?username=bvanny&show_icons=true&theme=radical" />
@@ -10,16 +12,11 @@
 
 </div>
 
-
-![Bvanny github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=bvanny&theme=merko)
-
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=bvanny&theme=onedark"/>
-</p>
+<br>
 
 <div align="center">  
 <a href="https://www.linkedin.com/in/bvanny/" target="_blank"><img src="https://img.shields.io/badge/-Linkedin-006DE8?style=for-the-badge&logo=linkedin&logoColor=white"</a>
+<a href="mailto:bruno_geovanny@outlook.com" target="_blank"><img src="https://img.shields.io/badge/-Email-006DE8?style=for-the-badge&logo=microsoft-outlook&logoColor=white"</a>
 </div>
   
   
@@ -40,6 +37,22 @@
 ### Studying in this moment:
 ![JavaScript](https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=javascript&labelColor=0D1117&textColor=0D1117)&nbsp;
 ![React.js](https://img.shields.io/badge/-React.js-0D1117?style=for-the-badge&logo=react&labelColor=0D1117)&nbsp;
+  
+### Hobby:
+<div >
+<span align="center">🎮 𝙂𝙖𝙢𝙚𝙨</span>
+<a><img align="center"  width="2.7%" src="https://media.discordapp.net/attachments/945477612891947028/1063411805428383764/pngegg.png"/>𝙒𝙤𝙒</a>
+<span align="center">🎧 𝙈𝙪𝙨𝙞𝙘</span>
+<span align="center">📖 𝙍𝙚𝙖𝙙</span> 
+</div>
+
+<br>
+  
+<p align="center">
+ <img src="https://github-profile-trophy.vercel.app/?username=bvanny&theme=onedark"/>
+</p>
+  
+<br>
 
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=900C3F&height=150&section=header&text=Come+back+soon+to+see+my+new+projects&fontSize=30&fontColor=fff&animation=twinkling&fontAlignY=35"/>
