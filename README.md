@@ -3,11 +3,16 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FFC300&size=35&center=true&vCenter=true&width=1000&lines=Hello,+My+Name+is+Bruno+Geovanny;I'm+24+years+old;I+come+from+Brasil,+SP;I'm+Software+Engineering+Student+at+Anhanguera;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
 <div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=bvanny&show_icons=true&count_private=true&hide_border=true&title_color=FFC300&&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117" alt="Bruno Geovanny github stats" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bvanny&layout=compact&hide_border=true&title_color=FFC300&&text_color=00bfbf&bg_color=0d1117" />
+
+<img align="bottom"  width="50%"  src="https://github-readme-stats.vercel.app/api?username=bvanny&show_icons=true&theme=radical" />
+
+<img align="bottom" width="45%"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=bvanny&layout=compact&theme=radical"/>
+
 </div>
 
-[![Bvanny github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=bvanny&theme=merko)](https://github.com/bvanny/github-readme-activity-graph)
+
+![Bvanny github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=bvanny&theme=merko)
+
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=bvanny&theme=dark_lover&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
