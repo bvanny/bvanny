@@ -3,17 +3,28 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FFC300&size=35&center=true&vCenter=true&width=1000&lines=Hello,+My+Name+is+Bruno+Geovanny;I'm+24+years+old;I+come+from+Brasil,+SP;I'm+Software+Engineering+Student+at+Anhanguera;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
 <br>
+<!--LightMode-->
 
 <div align="center"> 
-     <a href="">
-      <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api?username=bvanny&show_icons=true&include_all_commits=true&count_private=true&theme=dracula&line_height=27" />
-    </a>
-    <a href="">
-      <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=bvanny&theme=dracula&line_height=25"/>
-    </a>
-</div
+<a href="https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only">
+<img height=200 src="https://github-readme-stats-git-masterrstaa-bvanny.vercel.app/api/top-langs/?username=bvanny&layout=compact&langs_count=10&hide_border=true&include_orgs=true&theme=dark&bg_color=000000#gh-light-mode-only" alt="Bruno Geovanny Language stats" />
+</a>
+<a href="https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only">
+<img height=200 src="https://github-readme-stats-git-masterrstaa-bvanny.vercel.app/api?username=bvanny&show_icons=true&count_private=true&line_height=28&hide_border=true&card_width=450&include_all_commits=true&include_orgs=true&exclude_repo=github-readme-stats&theme=dark&bg_color=000000#gh-light-mode-only" alt="Bruno Geovanny Github stats" />
+</a>
+</div>
 
-  <br>
+<!--DarkMode-->
+<div align="center"> 
+<a href="https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only">
+<img height=200 src="https://github-readme-stats-git-masterrstaa-bvanny.vercel.app/api/top-langs/?username=bvanny&layout=compact&langs_count=10&hide_border=true&include_orgs=true&theme=dark&bg_color=000000#gh-dark-mode-only" alt="Bruno Geovanny Language stats" />
+</a>
+<a href="https://github.com/bvanny/github-readme-stats#gh-dark-mode-only">
+<img height=200 src="https://github-readme-stats-git-masterrstaa-bvanny.vercel.app/api?username=bvanny&show_icons=true&count_private=true&line_height=28&hide_border=true&card_width=450&include_all_commits=true&include_orgs=true&exclude_repo=github-readme-stats&theme=dark&bg_color=000000#gh-dark-mode-only" alt="Bruno Geovanny Github stats" />
+</a>
+</div>
+
+
 <br>
 
 <div align="center">  
