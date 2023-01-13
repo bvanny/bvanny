@@ -4,14 +4,16 @@
 
 <br>
 
-<div align="center">  
+<div align="center"> 
+     <a href="">
+      <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api?username=bvanny&show_icons=true&include_all_commits=true&count_private=true&theme=dracula&line_height=27" />
+    </a>
+    <a href="">
+      <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=bvanny&theme=dracula&line_height=25"/>
+    </a>
+</div
 
-<img  width="46%"    src="https://github-readme-stats.vercel.app/api?username=bvanny&show_icons=true&theme=radical" />
-
-<img  width="45.3%"   src="https://github-readme-stats.vercel.app/api/top-langs/?username=bvanny&layout=compact&theme=radical"/>
-
-</div>
-
+  <br>
 <br>
 
 <div align="center">  
