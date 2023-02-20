@@ -1,6 +1,6 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=300C3F&height=150&section=header&text=Hi+there,+I'm+Bruno+Geovanny&fontSize=30&fontColor=fff&animation=twinkling&fontAlignY=35"/>
 
-#### My current tools 
+#### My current tools/infos
 🌎 Front-end with JavaScript/React.js
 <br>
 📖 I'm currently finishing the RocketSeat Explorer Full Stack course
