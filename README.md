@@ -11,7 +11,7 @@
 <br>
 📫 Contact me : **bruno_geovanny@outlook.com**
 <br>
-🖥️ I'm studying software engineering at Anhanguera college.
+🖥️ I'm studying Analysis and systems development at Uninter college.
 <br>
 #### Other Tools
 🛠️ Figma, VSCode, Photoshop
