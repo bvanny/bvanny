@@ -1,7 +1,7 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=300C3F&height=150&section=header&text=Hi+there,+I'm+Bruno+Geovanny&fontSize=30&fontColor=fff&animation=twinkling&fontAlignY=35"/>
 
 ### :gear: My current tools/infos
-🌎 <strong>I'm  a Developer Full-Stack</strong> with <strong>JavaScript/React.js/TypeScript/Node.js</strong>
+🌎 <strong>I'm  a Developer </strong> with <strong>JavaScript/React.js/TypeScript/Node.js</strong>
 <br>
 📖 I'm currently <strong>specializing</strong> in <strong>React</strong> at RocketSeat's Ignite Course
 <br>
